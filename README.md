@@ -1,3 +1,5 @@
+ReactTS Shopping Cart App from this tutorial: https://www.youtube.com/watch?v=sfmL6bGbiN8
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
